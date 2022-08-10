@@ -1,1 +1,4 @@
 *.pyc
+
+
+import numpy as np
